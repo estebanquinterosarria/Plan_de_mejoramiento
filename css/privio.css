@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-/* Maquillaje de index(privio)  */
+/* Maquillaje index */
 body-privio{
     display: flex;
     flex-direction: column;
@@ -85,7 +85,7 @@ article{
 }
 #avengers{
     display: flex;
-    background-image: url(/imagenes/unnamed\ \(1\).jpg);
+    background-image: url(../imagenes/unnamed\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 8px;
@@ -98,7 +98,7 @@ article{
 }
 #joker{
     display: flex;
-    background-image: url(/imagenes/joker\ historia\ real\ goetz\ ny\ \(1\).jpg);
+    background-image: url(../imagenes/joker\ historia\ real\ goetz\ ny\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 8px;
@@ -111,7 +111,7 @@ article{
 }
 #django{
     display: flex;
-    background-image: url(/imagenes/MV5BODUyNzEwNDkzNl5BMl5BanBnXkFtZTcwMzcwMDYzOA@@._V1_.jpg);
+    background-image: url(../imagenes/MV5BODUyNzEwNDkzNl5BMl5BanBnXkFtZTcwMzcwMDYzOA@@._V1_.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     border-radius: 8px;
@@ -267,7 +267,7 @@ nav{
  }
  .imag1{
     display: flex;
-    background-image: url(/imagenes/unnamed\ \(1\).jpg);
+    background-image: url(../imagenes/unnamed\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
@@ -285,7 +285,7 @@ nav{
 
  .imag2{
     display: flex;
-    background-image: url(/imagenes/joker\ historia\ real\ goetz\ ny\ \(1\).jpg);
+    background-image: url(../imagenes/joker\ historia\ real\ goetz\ ny\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
@@ -303,7 +303,7 @@ nav{
 
  .imag3{
     display: flex;
-    background-image: url(/imagenes/MV5BODUyNzEwNDkzNl5BMl5BanBnXkFtZTcwMzcwMDYzOA@@._V1_.jpg);
+    background-image: url(../imagenes/MV5BODUyNzEwNDkzNl5BMl5BanBnXkFtZTcwMzcwMDYzOA@@._V1_.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
@@ -321,7 +321,7 @@ nav{
 
  .imag4{
     display: flex;
-    background-image: url(/imagenes/unnamed\ \(1\).jpg);
+    background-image: url(../imagenes/unnamed\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
